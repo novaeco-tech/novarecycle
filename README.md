@@ -1,4 +1,4 @@
-# NovaWaste Sector
+# NovaRecycle Sector
 
-Welcome to the `NovaWaste` Vertical Sector.
-Waste‑to‑value streams, recycling management.
+Welcome to the `NovaRecycle` Vertical Sector.
+Management of recycling centers and urban mining recovery.
