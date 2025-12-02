@@ -33,7 +33,7 @@ graph TD
     UI -->|REST| API[NovaRecycle API]
     
     subgraph "The Input (Gate)"
-        API -->|Weight/Scan| Infra[NovaInfra (Weighbridge)]
+        API -->|Weight/Scan| Infra["NovaInfra (Weighbridge)"]
         API -->|Validate Carrier| Logistics[NovaLogistics]
     end
 
